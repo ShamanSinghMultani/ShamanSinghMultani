@@ -1,4 +1,6 @@
-# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Hey+there!+I'm+Shaman Singh Multani+%F0%9F%91%8B;VLSI+%7C+Embedded+Systems+%7C+AI+Hardware;Building+Cool+Things+with+Code+%26+Circuits" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Hey+there!+I'm+Shaman+Singh+Multani;VLSI+%7C+Embedded+Systems+%7C+AI+Hardware;Building+Cool+Things+with+Code+%26+Circuits" />
+</p>
 
 <div align="center">
 
