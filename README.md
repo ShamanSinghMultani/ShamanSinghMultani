@@ -83,7 +83,7 @@ Fun Fact:
 
 * 💪🏻 Upcoming Summer Intern @SCL Chandigarh
 * 🏆 2x Hackathon Winner
-* 🛰️ Hardware Engineer Intern at Oceaneering
+* 🛰️ Ex Hardware Engineer Intern at Oceaneering
 * ⚙️ FPGA & RTL Design Enthusiast
 * 🧠 AI Hardware Research Learner
 * 🔬 Semiconductor & Chip Architecture Explorer
