@@ -81,7 +81,7 @@ Fun Fact:
 
 # 🏆 Achievements & Interests
 
-* 💪🏻 Upcoming Summer Intern @SCL Chandigarh
+* 💪🏻 Summer Intern (Jun-Jul 2026)  @SCL Chandigarh
 * 🏆 2x Hackathon Winner
 * 🛰️ Ex Hardware Engineer Intern at Oceaneering
 * ⚙️ FPGA & RTL Design Enthusiast
